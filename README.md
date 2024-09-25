@@ -25,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Vaish228/Leetcode/tree/master/2083-three-divisors) |
+## Hash Table
+|  |
+| ------- |
+| [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+## String
+|  |
+| ------- |
+| [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+## Prefix Sum
+|  |
+| ------- |
+| [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 <!---LeetCode Topics End-->
