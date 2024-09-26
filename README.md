@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Vaish228/Leetcode/tree/master/0165-compare-version-numbers) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Bit Manipulation
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/Vaish228/Leetcode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
