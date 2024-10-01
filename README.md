@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaish228/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vaish228/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaish228/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vaish228/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3321-type-of-triangle](https://github.com/Vaish228/Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vaish228/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Tree
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vaish228/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
