@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vaish228/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Vaish228/Leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Vaish228/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Vaish228/Leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Vaish228/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaish228/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vaish228/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Vaish228/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0283-move-zeroes) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vaish228/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaish228/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vaish228/Leetcode/tree/master/0496-next-greater-element-i) |
