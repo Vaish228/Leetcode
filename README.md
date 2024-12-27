@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vaish228/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vaish228/Leetcode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Vaish228/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Vaish228/Leetcode/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/Vaish228/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0283-move-zeroes) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vaish228/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
