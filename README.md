@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Vaish228/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Vaish228/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Vaish228/Leetcode/tree/master/0443-string-compression) |
+| [0686-repeated-string-match](https://github.com/Vaish228/Leetcode/tree/master/0686-repeated-string-match) |
 | [1764-maximum-repeating-substring](https://github.com/Vaish228/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaish228/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Vaish228/Leetcode/tree/master/0686-repeated-string-match) |
 | [1764-maximum-repeating-substring](https://github.com/Vaish228/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Array
 |  |
