@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vaish228/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Vaish228/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vaish228/Leetcode/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0242-valid-anagram](https://github.com/Vaish228/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaish228/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vaish228/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Vaish228/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Vaish228/Leetcode/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0165-compare-version-numbers](https://github.com/Vaish228/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Vaish228/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vaish228/Leetcode/tree/master/0242-valid-anagram) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Vaish228/Leetcode/tree/master/0046-permutations) |
+| [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaish228/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vaish228/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
