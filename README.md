@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Vaish228/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vaish228/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Vaish228/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Vaish228/Leetcode/tree/master/0504-base-7) |
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vaish228/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vaish228/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Vaish228/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Vaish228/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vaish228/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vaish228/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Vaish228/Leetcode/tree/master/0136-single-number) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vaish228/Leetcode/tree/master/0048-rotate-image) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 ## Counting
 |  |
