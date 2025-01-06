@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vaish228/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Vaish228/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Vaish228/Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Vaish228/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Vaish228/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Vaish228/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vaish228/Leetcode/tree/master/0162-find-peak-element) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vaish228/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vaish228/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vaish228/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaish228/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 ## Counting
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vaish228/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vaish228/Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
