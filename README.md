@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vaish228/Leetcode/tree/master/0739-daily-temperatures) |
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1127-last-stone-weight](https://github.com/Vaish228/Leetcode/tree/master/1127-last-stone-weight) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vaish228/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Vaish228/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3321-type-of-triangle](https://github.com/Vaish228/Leetcode/tree/master/3321-type-of-triangle) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaish228/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vaish228/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/Vaish228/Leetcode/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
