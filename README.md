@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vaish228/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vaish228/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3321-type-of-triangle](https://github.com/Vaish228/Leetcode/tree/master/3321-type-of-triangle) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaish228/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vaish228/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vaish228/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Vaish228/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
@@ -146,16 +148,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vaish228/Leetcode/tree/master/0100-same-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vaish228/Leetcode/tree/master/0100-same-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vaish228/Leetcode/tree/master/0100-same-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Backtracking
 |  |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Vaish228/Leetcode/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
