@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vaish228/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Vaish228/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Vaish228/Leetcode/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Vaish228/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vaish228/Leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0686-repeated-string-match](https://github.com/Vaish228/Leetcode/tree/master/0686-repeated-string-match) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vaish228/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaish228/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Vaish228/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Vaish228/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vaish228/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vaish228/Leetcode/tree/master/0739-daily-temperatures) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vaish228/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Vaish228/Leetcode/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/Vaish228/Leetcode/tree/master/0763-special-binary-string) |
 ## Binary Search
 |  |
