@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vaish228/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Vaish228/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vaish228/Leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Vaish228/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0283-move-zeroes) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Vaish228/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vaish228/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Vaish228/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vaish228/Leetcode/tree/master/0328-odd-even-linked-list) |
