@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0686-repeated-string-match](https://github.com/Vaish228/Leetcode/tree/master/0686-repeated-string-match) |
 | [0763-special-binary-string](https://github.com/Vaish228/Leetcode/tree/master/0763-special-binary-string) |
+| [0886-score-of-parentheses](https://github.com/Vaish228/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/Vaish228/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaish228/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vaish228/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vaish228/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vaish228/Leetcode/tree/master/0739-daily-temperatures) |
+| [0886-score-of-parentheses](https://github.com/Vaish228/Leetcode/tree/master/0886-score-of-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaish228/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
