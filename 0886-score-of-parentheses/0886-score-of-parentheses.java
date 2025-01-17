@@ -1,6 +1,6 @@
 class Solution {
     public int scoreOfParentheses(String s) {
-         Stack<Integer> stack = new Stack<>();
+        Stack<Integer> stack = new Stack<>();
         stack.push(0); // Initialize with 0 to handle the outermost level
 
         for (char c : s.toCharArray()) {
