@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vaish228/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaish228/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Vaish228/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0198-house-robber](https://github.com/Vaish228/Leetcode/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaish228/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vaish228/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vaish228/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vaish228/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Vaish228/Leetcode/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Vaish228/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaish228/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Vaish228/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Vaish228/Leetcode/tree/master/0239-sliding-window-maximum) |
