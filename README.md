@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vaish228/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Vaish228/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vaish228/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vaish228/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1764-maximum-repeating-substring](https://github.com/Vaish228/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vaish228/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaish228/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Vaish228/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vaish228/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vaish228/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Vaish228/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vaish228/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
