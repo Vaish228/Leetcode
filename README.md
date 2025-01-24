@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Vaish228/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1129-longest-string-chain](https://github.com/Vaish228/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Vaish228/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1517-restore-the-array](https://github.com/Vaish228/Leetcode/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vaish228/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1764-maximum-repeating-substring](https://github.com/Vaish228/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Vaish228/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1129-longest-string-chain](https://github.com/Vaish228/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Vaish228/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1517-restore-the-array](https://github.com/Vaish228/Leetcode/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vaish228/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1764-maximum-repeating-substring](https://github.com/Vaish228/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## String Matching
