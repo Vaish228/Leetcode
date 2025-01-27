@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Vaish228/Leetcode/tree/master/0100-same-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/Vaish228/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vaish228/Leetcode/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/Vaish228/Leetcode/tree/master/1558-course-schedule-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -363,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vaish228/Leetcode/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/Vaish228/Leetcode/tree/master/1558-course-schedule-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/Vaish228/Leetcode/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
