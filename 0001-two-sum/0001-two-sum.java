@@ -18,7 +18,7 @@ class Solution {
         for(int i=0;i<l;i++)
         {
             int j = target-nums[i];
-            if(mp.containsKey(j)&&mp.get(j)!=i)
+            if(mp.containsKey(j) && mp.get(j)!=i)
                 return new int[]{i, mp.get(j)};
         }
         return new int[]{};
