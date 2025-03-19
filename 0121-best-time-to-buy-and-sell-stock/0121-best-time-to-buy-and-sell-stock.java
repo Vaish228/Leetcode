@@ -10,6 +10,7 @@ class Solution {
             if(mp<prices[i]-min)
                  mp=prices[i]-min;     
         }
+        
         return mp;
     }
 }
