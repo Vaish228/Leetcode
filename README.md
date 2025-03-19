@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vaish228/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vaish228/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Vaish228/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaish228/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Vaish228/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Vaish228/Leetcode/tree/master/0198-house-robber) |
 | [0376-wiggle-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vaish228/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Vaish228/Leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Vaish228/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaish228/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaish228/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vaish228/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Vaish228/Leetcode/tree/master/0139-word-break) |
