@@ -10,7 +10,7 @@ class Solution {
         //         rs.add(rs.get(j)|1<<i);
         //     }
         // }
-        int totalNumbers = 1 << n; 
+        int totalNumbers = 1<<n; 
 
         for (int i = 0; i < totalNumbers; i++) {
             rs.add(i ^ (i >> 1)); 
