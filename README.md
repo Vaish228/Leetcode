@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vaish228/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Vaish228/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vaish228/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Vaish228/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Vaish228/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Vaish228/Leetcode/tree/master/0504-base-7) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Vaish228/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Vaish228/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vaish228/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Vaish228/Leetcode/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/Vaish228/Leetcode/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vaish228/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Geometry
