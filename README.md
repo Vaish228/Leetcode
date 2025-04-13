@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Vaish228/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1127-last-stone-weight](https://github.com/Vaish228/Leetcode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/Vaish228/Leetcode/tree/master/1129-longest-string-chain) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaish228/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vaish228/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Vaish228/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vaish228/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vaish228/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaish228/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaish228/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vaish228/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Counting
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vaish228/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Vaish228/Leetcode/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaish228/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vaish228/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Breadth-First Search
 |  |
