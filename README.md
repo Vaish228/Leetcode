@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Vaish228/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vaish228/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Vaish228/Leetcode/tree/master/0740-delete-and-earn) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Vaish228/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaish228/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Vaish228/Leetcode/tree/master/0792-binary-search) |
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vaish228/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaish228/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Vaish228/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Vaish228/Leetcode/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vaish228/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Breadth-First Search
