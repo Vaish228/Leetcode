@@ -1,47 +1,35 @@
 public class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        
-        List<Integer> res = new ArrayList<Integer>();
-        
-        if (matrix.length == 0) {
+        List<Integer> res = new ArrayList<>();
+        if ( matrix.length == 0 )
             return res;
-        }
-        
-        int rowBegin = 0;
-        int rowEnd = matrix.length-1;
-        int colBegin = 0;
-        int colEnd = matrix[0].length - 1;
-        
-        while (rowBegin <= rowEnd && colBegin <= colEnd) {
-            // Traverse Right
-            for (int j = colBegin; j <= colEnd; j ++) {
-                res.add(matrix[rowBegin][j]);
+        int rb = 0;
+        int re = matrix.length-1;
+        int cb=0;
+        int ce = matrix[0].length-1;
+
+        while(rb<=re && cb<=ce)
+        {
+            for(int i=cb;i<=ce;i++)
+                res.add(matrix[rb][i]);
+            rb++;
+            for(int i=rb;i<=re;i++)
+                res.add(matrix[i][ce]);
+            ce--;
+            if(rb<=re)
+            {
+                for(int i=ce;i>=cb;i--)
+                    res.add(matrix[re][i]);
             }
-            rowBegin++;
-            
-            // Traverse Down
-            for (int j = rowBegin; j <= rowEnd; j ++) {
-                res.add(matrix[j][colEnd]);
-            }
-            colEnd--;
-            
-            if (rowBegin <= rowEnd) {
-                // Traverse Left
-                for (int j = colEnd; j >= colBegin; j --) {
-                    res.add(matrix[rowEnd][j]);
-                }
-            }
-            rowEnd--;
-            
-            if (colBegin <= colEnd) {
-                // Traver Up
-                for (int j = rowEnd; j >= rowBegin; j --) {
-                    res.add(matrix[j][colBegin]);
-                }
-            }
-            colBegin ++;
-        }
-        
-        return res;
+            re--;
+            if(cb<=ce)
+            {
+                for(int i=re;i>=rb;i--)
+                    res.add(matrix[i][cb]);
+            } 
+            cb++;               
+        }  
+        return res;  
+     
     }
 }
