@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Vaish228/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Vaish228/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Vaish228/Leetcode/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/Vaish228/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/Vaish228/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Vaish228/Leetcode/tree/master/1013-fibonacci-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vaish228/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Vaish228/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Vaish228/Leetcode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Vaish228/Leetcode/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/Vaish228/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vaish228/Leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Vaish228/Leetcode/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/Vaish228/Leetcode/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0282-expression-add-operators](https://github.com/Vaish228/Leetcode/tree/master/0282-expression-add-operators) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vaish228/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Geometry
 |  |
