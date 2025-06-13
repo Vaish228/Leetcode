@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vaish228/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vaish228/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Vaish228/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vaish228/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vaish228/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vaish228/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vaish228/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Backtracking
 |  |
