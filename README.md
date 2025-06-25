@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vaish228/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vaish228/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vaish228/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Vaish228/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2155-find-missing-observations](https://github.com/Vaish228/Leetcode/tree/master/2155-find-missing-observations) |
 | [3321-type-of-triangle](https://github.com/Vaish228/Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vaish228/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vaish228/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaish228/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vaish228/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Vaish228/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Breadth-First Search
 |  |
 | ------- |
