@@ -1,30 +1,18 @@
 class Solution {
-    // public int HR(int[] nums, int i, int[] dp) {
-    //     if (i >= nums.length)
-    //         return 0;
-    //     if (dp[i] != -1)   
-    //         return dp[i];
-    //     return dp[i] = Math.max(HR(nums, i + 1, dp), HR(nums, i + 2, dp) + nums[i]);
-       
-    // }
-
-    // public int rob(int[] nums) {
-    //     int n = nums.length;
-    //     int[] dp = new int[n + 1];
-    //     Arrays.fill(dp, -1);
-    //     return HR(nums, 0, dp);
-    // }
-
-    public int rob(int[] nums)
+    public int house(int n, int[] nums, int[] dp)
     {
-        int pr = 0;
-        int m = 0;
-        for(int i : nums)
-        {
-            int t = Math.max(m,pr+i);
-            pr = m;
-            m = t;
-        }
-        return m;
+        if(n<0) return 0;
+        if(n==0) return nums[n];
+        if(dp[n]!= -1) return dp[n];
+        int pick = nums[n]+house(n-2, nums, dp);
+        int notpick = 0+house(n-1, nums, dp);
+        return dp[n] = Math.max(pick, notpick);
+    }
+    public int rob(int[] nums) {
+        int n = nums.length;
+        int[] dp = new int[n];
+        Arrays.fill(dp, -1);
+        int ans =  house(n-1, nums, dp);
+        return ans;
     }
 }
