@@ -9,6 +9,6 @@ class Solution {
             seen.add(ch);
         }
 
-        return '\0'; 
+        return ' '; 
     }
 }
