@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Vaish228/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Vaish228/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vaish228/Leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Vaish228/Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Vaish228/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/Vaish228/Leetcode/tree/master/0139-word-break) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vaish228/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vaish228/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vaish228/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Vaish228/Leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Vaish228/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaish228/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaish228/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
