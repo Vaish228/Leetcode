@@ -13,7 +13,7 @@ class Solution {
     }
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        int[][] dp = new int[n][n+1];
+        int[][] dp = new int[n][n];
         for(int[] r: dp)
              Arrays.fill(r,-1);
         return f(0,-1, nums, dp);
