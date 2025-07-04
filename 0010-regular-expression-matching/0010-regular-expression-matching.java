@@ -1,32 +1,29 @@
 class Solution {
-    Boolean[][] dp;
-
-    public boolean isMatch(String s, String p) {
-        int m = s.length(), n = p.length();
-        dp = new Boolean[m + 1][n + 1];
-        return f(0, 0, s, p);
-    }
-
-    public boolean f(int i, int j, String s, String p) {
-        if (dp[i][j] != null) return dp[i][j];
-
-        // Base case: If pattern is exhausted
-        if (j == p.length()) {
-            return dp[i][j] = (i == s.length());
-        }
-
-        // First match check
-        boolean firstMatch = (i < s.length()) &&
-                             (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.');
-
-        // Handle '*'
-        if ((j + 1 < p.length()) && (p.charAt(j + 1) == '*')) {
-            // Two choices: skip `x*`, or use it if firstMatch
-            boolean skip = f(i, j + 2, s, p); // zero occurrence
-            boolean use = firstMatch && f(i + 1, j, s, p); // one or more
+    public boolean f(int i, int j, String s, String p, Boolean[][] dp)
+    {
+         if(dp[i][j]!=null) return dp[i][j];
+         if(j==p.length())
+            return dp[i][j] = (i==s.length());
+         Boolean frst = (i<s.length()) && (s.charAt(i)==p.charAt(j) || p.charAt(j)=='.');
+         if(j+1 < p.length() && p.charAt(j+1)=='*')
+         {
+            Boolean skip = f(i, j+2, s, p, dp);
+            Boolean use = frst && f(i+1, j, s, p, dp);
             return dp[i][j] = skip || use;
-        } else {
-            return dp[i][j] = firstMatch && f(i + 1, j + 1, s, p);
-        }
+         } 
+         else{
+            return dp[i][j] = frst && f(i+1, j+1, s, p, dp);
+         }
     }
+    public boolean isMatch(String s, String p) {
+        int n = s.length();
+        int m = p.length();
+        Boolean[][] dp = new Boolean[n+1][m+1];
+        for(Boolean[] r: dp)
+        {
+            Arrays.fill(r,null);
+        }
+        return f(0,0,s,p,dp);
+    }
+
 }
