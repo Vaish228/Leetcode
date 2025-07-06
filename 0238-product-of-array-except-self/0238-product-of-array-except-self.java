@@ -3,10 +3,10 @@ class Solution {
         int[] ans = new int[nums.length];
         int n = nums.length;
         int p=1;
-        for(int i=0;i<n;i++)
-        {
-            ans[i]=p;
-        }
+        // for(int i=0;i<n;i++)
+        // {
+        //     ans[i]=p;
+        // }
         for(int i=0;i<n;i++)
         {
             ans[i]=p;
