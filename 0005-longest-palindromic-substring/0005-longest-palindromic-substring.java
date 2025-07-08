@@ -1,48 +1,33 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int n = s.length();
+        int max = 0;
+        int start = 0;
 
-        // If the string has less than 2 characters, it is already a palindrome
-        if (n < 2) {
-            return s;
-        }
-
-        // Initialize variables to track the longest palindrome substring
-        String sub = s.substring(0, 1);
-        int curr = 1;
-
-        // Iterate through each character in the string
-        for (int i = 0; i < n; i++) {
-            
-            // Check for palindromes with odd length
-            int start = i, end = i;
-            while (start >= 0 && end < n && s.charAt(start) == s.charAt(end)) {
-                // If the current substring is longer than the previously recorded one,
-                // update 'sub' and 'curr' accordingly
-                if (end - start + 1 > curr) {
-                    sub = s.substring(start, end + 1);
-                    curr = end - start + 1;
+        for (int i = 0; i < s.length(); i++) {
+            // Odd-length palindrome
+            int l = i, r = i;
+            while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+                if ((r - l + 1) > max) {
+                    max = r - l + 1;
+                    start = l;
                 }
-                // Expand the substring by moving the start and end pointers
-                start--;
-                end++;
+                l--;
+                r++;
             }
 
-            // Check for palindromes with even length
-            start = i;
-            end = i + 1;
-            while (start >= 0 && end < n && s.charAt(start) == s.charAt(end)) {
-                // If the current substring is longer than the previously recorded one,
-                // update 'sub' and 'curr' accordingly
-                if (end - start + 1 > curr) {
-                    sub = s.substring(start, end + 1);
-                    curr = end - start + 1;
+            // Even-length palindrome
+            l = i;
+            r = i + 1;
+            while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+                if ((r - l + 1) > max) {
+                    max = r - l + 1;
+                    start = l;
                 }
-                // Expand the substring by moving the start and end pointers
-                start--;
-                end++;
+                l--;
+                r++;
             }
         }
-        return sub;
+
+        return s.substring(start, start + max);
     }
 }
