@@ -7,7 +7,7 @@ class Solution {
         }
         List<Map.Entry<Integer, Integer>> en = new ArrayList<>(mp.entrySet());
         en.sort((a,b)->b.getValue()-a.getValue());
-        int a = en.get(0).getKey();
-        return a;
+        return en.get(0).getKey();
+       // return a;
     }
 }
