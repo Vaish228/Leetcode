@@ -2,7 +2,7 @@ class Solution {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         //int ans = Integer.MIN_VALUE;
-        if(n==0) return 0;
+        if(s.isEmpty()) return 0;
         int max = Integer.MIN_VALUE;
         Set<Character> set = new HashSet<>();
         int l=0,r=0,i=0,j=0;
