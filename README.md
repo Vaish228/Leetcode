@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Vaish228/Leetcode/tree/master/0740-delete-and-earn) |
 | [0816-design-hashset](https://github.com/Vaish228/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vaish228/Leetcode/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/Vaish228/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Vaish228/Leetcode/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaish228/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Vaish228/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vaish228/Leetcode/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/Vaish228/Leetcode/tree/master/0898-transpose-matrix) |
+| [0940-fruit-into-baskets](https://github.com/Vaish228/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1105-uncrossed-lines](https://github.com/Vaish228/Leetcode/tree/master/1105-uncrossed-lines) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaish228/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Vaish228/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/Vaish228/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaish228/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Monotonic Queue
 |  |
