@@ -5,8 +5,7 @@ class Solution {
         int n = fruits.length;
         int ml=0;
         while(r<n){
-            int ff=fruits[r];
-            mp.put(ff,mp.getOrDefault(ff,0)+1);
+            mp.put(fruits[r],mp.getOrDefault(fruits[r],0)+1);
 
             while(mp.size()>2){
                 int lf = fruits[l];
