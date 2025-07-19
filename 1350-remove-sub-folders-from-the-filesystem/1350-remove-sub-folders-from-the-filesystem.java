@@ -1,21 +1,18 @@
 class Solution {
     public List<String> removeSubfolders(String[] folder) {
-        Set<String> dirSet = new HashSet<>();
-        List<String> res = new ArrayList<>();
-
-        for (String dir : folder)
-            dirSet.add(dir);
-
-        for (String dir : folder) {
-            res.add(dir);
-            for (int i = 0; i < dir.length(); i++) {
-                if (dir.charAt(i) == '/' && dirSet.contains(dir.substring(0, i))) {
-                    res.remove(res.size() - 1);
-                    break;
-                }
+        ArrayList<String> ans = new ArrayList<>();
+        Arrays.sort(folder);
+        int i=0;
+        ans.add(folder[i++]);
+        String prev=folder[0];
+        while(i < folder.length){
+            String curr=folder[i];
+            if(!curr.startsWith(prev+'/')){
+                prev = folder[i];
+                ans.add(prev);
             }
+            i++;
         }
-
-        return res;
+        return ans;
     }
 }
