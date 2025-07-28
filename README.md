@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Vaish228/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vaish228/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Vaish228/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Vaish228/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Vaish228/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/Vaish228/Leetcode/tree/master/0139-word-break) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vaish228/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vaish228/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Vaish228/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaish228/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Vaish228/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Vaish228/Leetcode/tree/master/0120-triangle) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vaish228/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Vaish228/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vaish228/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vaish228/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vaish228/Leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Vaish228/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Vaish228/Leetcode/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0282-expression-add-operators](https://github.com/Vaish228/Leetcode/tree/master/0282-expression-add-operators) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vaish228/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vaish228/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Vaish228/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaish228/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Vaish228/Leetcode/tree/master/0898-transpose-matrix) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
