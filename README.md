@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaish228/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vaish228/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vaish228/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vaish228/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Vaish228/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3684-substring-matching-pattern](https://github.com/Vaish228/Leetcode/tree/master/3684-substring-matching-pattern) |
 ## Bit Manipulation
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vaish228/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vaish228/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vaish228/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vaish228/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Vaish228/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2155-find-missing-observations](https://github.com/Vaish228/Leetcode/tree/master/2155-find-missing-observations) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vaish228/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3321-type-of-triangle](https://github.com/Vaish228/Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vaish228/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaish228/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
