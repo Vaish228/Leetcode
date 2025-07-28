@@ -1,11 +1,12 @@
-public class Solution {
-    public int titleToNumber(String s) {
-        int result = 0;
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            int value = c - 'A' + 1;
-            result = result * 26 + value;
+class Solution {
+    public int titleToNumber(String columnTitle) {
+        int res =0;
+        for(int i=0;i<columnTitle.length();i++)
+        {
+            char c = columnTitle.charAt(i);
+            int va = c-'A'+1;
+            res = res*26 + va;
         }
-        return result;
+        return res;
     }
 }
