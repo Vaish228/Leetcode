@@ -15,6 +15,7 @@ class Solution {
          {
             if(ra[i]>ra[i+1])
             {
+                //ca[i]=ca[i+1]+1;
                 ca[i]=Math.max(ca[i],ca[i+1]+1);
             }
          }
