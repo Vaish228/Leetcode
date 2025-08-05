@@ -5,8 +5,11 @@ class Solution {
         for(int i=0;i<t.length();i++){
             if(s.charAt(j)==t.charAt(i)){
                 c++;
-                if(j<s.length()-1)
-                    j++;
+                // if(j<s.length()-1)
+                //     j++;
+                if(c==s.length())
+                    break;
+                j++;    
             }
         }
         if(c==s.length()) 
