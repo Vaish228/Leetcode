@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vaish228/Leetcode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Vaish228/Leetcode/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Vaish228/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vaish228/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vaish228/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0443-string-compression](https://github.com/Vaish228/Leetcode/tree/master/0443-string-compression) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Vaish228/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Vaish228/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vaish228/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Vaish228/Leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Vaish228/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vaish228/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0376-wiggle-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0392-is-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaish228/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Vaish228/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
