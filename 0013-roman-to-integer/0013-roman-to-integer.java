@@ -1,40 +1,21 @@
 class Solution {
     public int romanToInt(String s) {
-        int val = 0;
-        int n = s.length();
-
-        for (int i = 0; i < n; i++) {
-            char currentChar = s.charAt(i);
-
-            if (i + 1 < n && getValue(s.charAt(i + 1)) > getValue(currentChar)) {
-                // subtract the val if next element is greater than current
-                val -= getValue(currentChar);
-            } else {
-                val += getValue(currentChar);
-            }
+        Map<Character, Integer> mp = new HashMap<>();
+        mp.put('I',1);
+        mp.put('V',5);
+        mp.put('X',10);
+        mp.put('L',50);
+        mp.put('C',100);
+        mp.put('D',500);
+        mp.put('M',1000);
+        int res =0;
+        for(int i=0;i<s.length();i++){
+            int c = mp.get(s.charAt(i));
+            if(i<s.length()-1 && c < mp.get(s.charAt(i+1)))
+                res-=c;
+            else
+                res+=c;    
         }
-
-        return val;
-    }
-
-    private int getValue(char romanNumeral) {
-        switch (romanNumeral) {
-            case 'I':
-                return 1;
-            case 'V':
-                return 5;
-            case 'X':
-                return 10;
-            case 'L':
-                return 50;
-            case 'C':
-                return 100;
-            case 'D':
-                return 500;
-            case 'M':
-                return 1000;
-            default:
-                return 0;
-        }
+        return res;
     }
 }
