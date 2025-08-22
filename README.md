@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vaish228/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vaish228/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Vaish228/Leetcode/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vaish228/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaish228/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaish228/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vaish228/Leetcode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Vaish228/Leetcode/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Vaish228/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Vaish228/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vaish228/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vaish228/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vaish228/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vaish228/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Vaish228/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaish228/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Vaish228/Leetcode/tree/master/0692-top-k-frequent-words) |
