@@ -13,7 +13,8 @@ class Solution {
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 int desired = -nums[i] - nums[j];
-                if (indexMap.containsKey(desired) && indexMap.get(desired) != i && indexMap.get(desired) != j) {
+                if (indexMap.containsKey(desired) && indexMap.get(desired) != i && indexMap.get(desired) != j) 
+                {
                     List<Integer> triplet = Arrays.asList(nums[i], nums[j], desired);
                     Collections.sort(triplet);
                     result.add(triplet);
