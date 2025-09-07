@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/Vaish228/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/Vaish228/Leetcode/tree/master/2024-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/Vaish228/Leetcode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Vaish228/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vaish228/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Data Stream
 |  |
