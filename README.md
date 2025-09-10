@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vaish228/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaish228/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vaish228/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Vaish228/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Vaish228/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0367-valid-perfect-square](https://github.com/Vaish228/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -878,4 +879,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vaish228/Leetcode/tree/master/0561-array-partition) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vaish228/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
