@@ -1,36 +1,30 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int low = 1;
-        int high = getMax(piles);
+        int l = 1;
+        int r = 0;
 
-        while (low < high) {
-            int mid = low + (high - low) / 2;
+        for(int p : piles){
+            r = Math.max(r,p);
+        }
+        int res = r;
 
-            if (canEatAll(piles, h, mid)) {
-                high = mid; // try smaller speed
-            } else {
-                low = mid + 1; // need faster speed
+        while(l<=r){
+            int mid = l+(r-l)/2;
+            if (func(piles, h, mid))
+            {
+                res = mid;
+                r=mid-1;
             }
+            else
+                l= mid+1;
         }
-
-        return low; // minimum k found
+        return res;
     }
-
-    // Helper: check if she can eat all with speed k in h hours
-    private boolean canEatAll(int[] piles, int h, int k) {
-        int hours = 0;
-        for (int pile : piles) {
-            hours += (pile + k - 1) / k; // same as ceil(pile / k)
+    public boolean func(int[] piles, int h, int k){
+        long hrs=0;
+        for(int p : piles){
+            hrs+=(p+k-1)/k;
         }
-        return hours <= h;
-    }
-
-    // Helper: get the maximum pile size
-    private int getMax(int[] piles) {
-        int max = 0;
-        for (int pile : piles) {
-            max = Math.max(max, pile);
-        }
-        return max;
+        return hrs<=h;
     }
 }
