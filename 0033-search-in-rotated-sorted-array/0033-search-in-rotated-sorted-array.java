@@ -1,42 +1,24 @@
 class Solution {
     public int search(int[] nums, int target) {
-        
-    //  int left = 0;
-    //     int right = nums.length - 1;
-
-    //     while (left <= right) {
-    //         int mid = left + (right - left) / 2;
-
-    //         // Check if mid is the target
-    //         if (nums[mid] == target) {
-    //             return mid;
-    //         }
-
-    //         // Determine which side is sorted
-    //         if (nums[left] <= nums[mid]) {
-    //             // Left side is sorted
-    //             if (target >= nums[left] && target < nums[mid]) {
-    //                 right = mid - 1;  // Target is in the left sorted part
-    //             } else {
-    //                 left = mid + 1;  // Target is in the right part
-    //             }
-    //         } else {
-    //             // Right side is sorted
-    //             if (target > nums[mid] && target <= nums[right]) {
-    //                 left = mid + 1;  // Target is in the right sorted part
-    //             } else {
-    //                 right = mid - 1;  // Target is in the left part
-    //             }
-    //         }
-    //     }
-
-    //     return -1;
-
-    for(int i=0;i<nums.length;i++)
-    {
-        if(nums[i]==target)
-            return i;
+        int l = 0;
+        int r = nums.length-1;
+        while(l<=r){
+            int m = l+(r-l)/2;
+            if(nums[m]==target)
+                return m;
+            if(nums[l]<=nums[m]){
+                if(target>=nums[l]&& target<nums[m])
+                    r = m-1;
+                else
+                    l=m+1;
+            }
+            else{
+                if(target<=nums[r]&&target>nums[m])
+                    l=m+1;
+                else
+                    r=m-1;    
+            }
+        }
+        return -1;
     }
-    return -1;
-}
 }
