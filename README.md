@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vaish228/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vaish228/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vaish228/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/Vaish228/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vaish228/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vaish228/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vaish228/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Vaish228/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vaish228/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Vaish228/Leetcode/tree/master/2155-find-missing-observations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vaish228/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Vaish228/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vaish228/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Vaish228/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/Vaish228/Leetcode/tree/master/3321-type-of-triangle) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Vaish228/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0816-design-hashset](https://github.com/Vaish228/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vaish228/Leetcode/tree/master/0817-design-hashmap) |
+| [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -747,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vaish228/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vaish228/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/Vaish228/Leetcode/tree/master/1127-last-stone-weight) |
+| [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -888,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Vaish228/Leetcode/tree/master/0327-count-of-range-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Binary Search Tree
 |  |
 | ------- |
