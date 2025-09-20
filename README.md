@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Vaish228/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Vaish228/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vaish228/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Vaish228/Leetcode/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vaish228/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3797-design-spreadsheet](https://github.com/Vaish228/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
 ## Tree
 |  |
 | ------- |
@@ -637,12 +639,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Vaish228/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Vaish228/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vaish228/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Vaish228/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vaish228/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaish228/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vaish228/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Vaish228/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -908,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Vaish228/Leetcode/tree/master/0327-count-of-range-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Vaish228/Leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
