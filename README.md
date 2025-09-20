@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1070-convert-to-base-2](https://github.com/Vaish228/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vaish228/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Vaish228/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vaish228/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Vaish228/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaish228/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Vaish228/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vaish228/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vaish228/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaish228/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaish228/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vaish228/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
