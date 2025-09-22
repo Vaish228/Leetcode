@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vaish228/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vaish228/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vaish228/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/Vaish228/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Vaish228/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Vaish228/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vaish228/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vaish228/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Vaish228/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/Vaish228/Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vaish228/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Vaish228/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vaish228/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vaish228/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vaish228/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vaish228/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
