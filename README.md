@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vaish228/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vaish228/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Vaish228/Leetcode/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Vaish228/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Vaish228/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vaish228/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Vaish228/Leetcode/tree/master/0189-rotate-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vaish228/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Vaish228/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaish228/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Vaish228/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Vaish228/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vaish228/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vaish228/Leetcode/tree/master/0217-contains-duplicate) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vaish228/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaish228/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Vaish228/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Vaish228/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Vaish228/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vaish228/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Vaish228/Leetcode/tree/master/0179-largest-number) |
