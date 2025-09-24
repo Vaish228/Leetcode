@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Vaish228/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Vaish228/Leetcode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Vaish228/Leetcode/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/Vaish228/Leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Vaish228/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Vaish228/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0392-is-subsequence) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Vaish228/Leetcode/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Vaish228/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0282-expression-add-operators](https://github.com/Vaish228/Leetcode/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/Vaish228/Leetcode/tree/master/0306-additive-number) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vaish228/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Geometry
 |  |
