@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/Vaish228/Leetcode/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/Vaish228/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Vaish228/Leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Vaish228/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaish228/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vaish228/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vaish228/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vaish228/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Vaish228/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Vaish228/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vaish228/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vaish228/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Vaish228/Leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Vaish228/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Vaish228/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Vaish228/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/Vaish228/Leetcode/tree/master/1129-longest-string-chain) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vaish228/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vaish228/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vaish228/Leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Vaish228/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaish228/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Vaish228/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Vaish228/Leetcode/tree/master/0682-baseball-game) |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Vaish228/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0367-valid-perfect-square](https://github.com/Vaish228/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/Vaish228/Leetcode/tree/master/0436-find-right-interval) |
+| [0611-valid-triangle-number](https://github.com/Vaish228/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Vaish228/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vaish228/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Vaish228/Leetcode/tree/master/0792-binary-search) |
