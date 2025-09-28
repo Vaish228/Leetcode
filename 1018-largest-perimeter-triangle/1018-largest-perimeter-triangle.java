@@ -5,6 +5,6 @@ class Solution {
             if(nums[i] < nums[i-1]+nums[i-2])
                 return nums[i] + nums[i-1] + nums[i-2];
         }
-         return 0;
+         return 0;        
     }
 }
