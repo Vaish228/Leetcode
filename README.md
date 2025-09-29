@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Vaish228/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Vaish228/Leetcode/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/Vaish228/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Vaish228/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/Vaish228/Leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Vaish228/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaish228/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Vaish228/Leetcode/tree/master/1036-rotting-oranges) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Vaish228/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1105-uncrossed-lines](https://github.com/Vaish228/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Vaish228/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/Vaish228/Leetcode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/Vaish228/Leetcode/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaish228/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
