@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vaish228/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaish228/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Vaish228/Leetcode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Vaish228/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/Vaish228/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vaish228/Leetcode/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/Vaish228/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vaish228/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Vaish228/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vaish228/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0794-swim-in-rising-water](https://github.com/Vaish228/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vaish228/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Vaish228/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Vaish228/Leetcode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vaish228/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Vaish228/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Vaish228/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/Vaish228/Leetcode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Vaish228/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Vaish228/Leetcode/tree/master/1036-rotting-oranges) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vaish228/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vaish228/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Vaish228/Leetcode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Vaish228/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Vaish228/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaish228/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vaish228/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Vaish228/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/Vaish228/Leetcode/tree/master/0547-number-of-provinces) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Vaish228/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0794-swim-in-rising-water](https://github.com/Vaish228/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vaish228/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaish228/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Vaish228/Leetcode/tree/master/1036-rotting-oranges) |
@@ -795,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vaish228/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Vaish228/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vaish228/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0794-swim-in-rising-water](https://github.com/Vaish228/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1127-last-stone-weight](https://github.com/Vaish228/Leetcode/tree/master/1127-last-stone-weight) |
 | [2023-design-movie-rental-system](https://github.com/Vaish228/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vaish228/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -874,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vaish228/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Vaish228/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaish228/Leetcode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Vaish228/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Database
 |  |
 | ------- |
