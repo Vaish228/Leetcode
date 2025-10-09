@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vaish228/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vaish228/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vaish228/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Vaish228/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaish228/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Vaish228/Leetcode/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vaish228/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Vaish228/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Vaish228/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
 ## Tree
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Vaish228/Leetcode/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vaish228/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vaish228/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Vaish228/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
