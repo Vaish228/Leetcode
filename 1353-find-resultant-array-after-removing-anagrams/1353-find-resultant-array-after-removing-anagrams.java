@@ -1,30 +1,21 @@
 class Solution {
-
+    static String sortString(String s) {
+    char[] arr = s.toCharArray();
+    Arrays.sort(arr);
+    return new String(arr);
+}
     public List<String> removeAnagrams(String[] words) {
-        List<String> res = new ArrayList<>();
-        res.add(words[0]); // result array
-        int n = words.length;
-        for (int i = 1; i < n; i++) {
-            if (!compare(words[i], words[i - 1])) {
-                res.add(words[i]);
-            }
+    String prev="";
+    List<String>ans=new ArrayList<>();
+    for(int i=0;i<words.length;i++)
+    {
+        String str=sortString(words[i]);
+        if(!str.equals(prev))
+        {
+            prev=str;
+            ans.add(words[i]);
         }
-        return res;
     }
-
-    private boolean compare(String word1, String word2) {
-        int[] freq = new int[26];
-        for (char ch : word1.toCharArray()) {
-            freq[ch - 'a']++;
-        }
-        for (char ch : word2.toCharArray()) {
-            freq[ch - 'a']--;
-        }
-        for (int x : freq) {
-            if (x != 0) {
-                return false;
-            }
-        }
-        return true;
+    return ans;
     }
 }
