@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vaish228/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vaish228/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Vaish228/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vaish228/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Vaish228/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Vaish228/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Vaish228/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vaish228/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vaish228/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Vaish228/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Vaish228/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Vaish228/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Vaish228/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vaish228/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Vaish228/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/Vaish228/Leetcode/tree/master/3827-implement-router) |
 ## Breadth-First Search
 |  |
@@ -857,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaish228/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vaish228/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Vaish228/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
