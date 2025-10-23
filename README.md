@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Vaish228/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/Vaish228/Leetcode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/Vaish228/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Vaish228/Leetcode/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Vaish228/Leetcode/tree/master/2083-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vaish228/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/Vaish228/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Vaish228/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Vaish228/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3684-substring-matching-pattern](https://github.com/Vaish228/Leetcode/tree/master/3684-substring-matching-pattern) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Vaish228/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vaish228/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Vaish228/Leetcode/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vaish228/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vaish228/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Vaish228/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
@@ -882,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Vaish228/Leetcode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vaish228/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vaish228/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Graph
 |  |
 | ------- |
