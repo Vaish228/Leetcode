@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Vaish228/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vaish228/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vaish228/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Vaish228/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Vaish228/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaish228/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vaish228/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vaish228/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaish228/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/Vaish228/Leetcode/tree/master/1517-restore-the-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Vaish228/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vaish228/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1764-maximum-repeating-substring](https://github.com/Vaish228/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1894-merge-strings-alternately](https://github.com/Vaish228/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Vaish228/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaish228/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/Vaish228/Leetcode/tree/master/1517-restore-the-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Vaish228/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vaish228/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1764-maximum-repeating-substring](https://github.com/Vaish228/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vaish228/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vaish228/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Vaish228/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Vaish228/Leetcode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Vaish228/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vaish228/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Vaish228/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vaish228/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
